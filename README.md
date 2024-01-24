@@ -15,5 +15,4 @@ Here are some ideas to get you started:
  
 
 ![fzsamooii's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzsamooii&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsamooii&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsamooii&layout=compact)
