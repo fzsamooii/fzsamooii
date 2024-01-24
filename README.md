@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🤔 I’m looking for help with ...   - 💬 Ask me about ...   - 📫 How to reach me: ...   - 😄 Pronouns: ...   - ⚡ Fun fact: ...
+
+ 🤔 I’m looking for help with ...    💬 Ask me about ...    📫 How to reach me: ...    😄 Pronouns: ...      ⚡ Fun fact: ...
 
 
  # Website for selling Iranian and foreign books
